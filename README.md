@@ -1,5 +1,5 @@
 
-![](https://github.com/quentinneal/quentinneal/blob/c044c48ab700413dfdb0450aafd63bc8a5e5ed02/bannerquentinneal.png)
+![](https://github.com/quentinneal/quentinneal/blob/67174f8524d279a0ccbe2ae140dd7e8d05a8bc0a/bannerquentinneal.png)
 <!--
 **quentinneal/quentinneal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
