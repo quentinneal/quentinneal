@@ -5,8 +5,6 @@
 <a href="https://quentinneal.com" rel="some text">![](https://img.shields.io/badge/website-f0f6fc?style=for-the-badge&logo=About.me&logoColor=161b22)</a>
 <a href="https://www.linkedin.com/in/quentinneal/" rel="some text">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-</div>
-
 # Welcome!
 
 My name is Quentin. I'm a self-taught, software engineer that specializes in building frontend web applications.
@@ -41,6 +39,8 @@ My current plans are to enter the industry as a Frontend Engineer / Software Eng
 ![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+</div>
 
 <!--
 
