@@ -1,6 +1,14 @@
 
 ![](https://github.com/quentinneal/quentinneal/blob/67174f8524d279a0ccbe2ae140dd7e8d05a8bc0a/bannerquentinneal.png)
-<!--
+
+# Welcome!
+
+My name is Quentin. I'm a self-taught, software engineer that specializes in building frontend web applications.
+
+A strong aspect of my personality is to solve problems. I like to push boundaries of what a website is supposed to be and discover unique ways to find solutions. I enjoy building and experimenting on interfaces, animations, and web features.
+
+My current plans are to enter the industry as a Frontend Engineer / Software Engineer and eventually become a Software Engineer with Frontend and UI/UX specialization.
+
 **quentinneal/quentinneal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
