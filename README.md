@@ -1,5 +1,7 @@
 
 ![](https://github.com/quentinneal/quentinneal/blob/67174f8524d279a0ccbe2ae140dd7e8d05a8bc0a/bannerquentinneal.png)
+<a href="https://www.linkedin.com/in/quentinneal/" rel="some text">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://quentinneal.com" rel="some text">![](https://img.shields.io/badge/website-f0f6fc?style=for-the-badge&logo=About.me&logoColor=161b22)</a>
 
 # Welcome!
 
