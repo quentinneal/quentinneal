@@ -11,7 +11,7 @@ My name is Quentin. I'm a self-taught, software engineer that specializes in bui
 
 A strong aspect of my personality is to solve problems. I like to push boundaries of what a website is supposed to be and discover unique ways to find solutions. I enjoy building and experimenting on interfaces, animations, and web features.
 
-My current plans are to enter the industry as a Frontend Engineer / Software Engineer and eventually become a Software Engineer with Frontend and UI/UX specialization.
+My current plans are to enter the industry as a Frontend Engineer / Software Engineer and eventually become a Software Engineer with Frontend and UI / UX specialization.
 
 
 
