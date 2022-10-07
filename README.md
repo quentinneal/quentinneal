@@ -36,7 +36,7 @@ My current plans are to enter the industry as a Frontend Engineer / Software Eng
 ![](https://img.shields.io/badge/GitHub-F0F6FC?style=for-the-badge&logo=github&logoColor=black)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## Previous Skills
+## Past Skills
 
 ![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
