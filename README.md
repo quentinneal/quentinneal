@@ -7,13 +7,7 @@
 
 # Welcome!
 
-My name is Quentin. I'm a self-taught, software engineer that specializes in building frontend web applications.
-
-A strong aspect of my personality is to solve problems. I like to push boundaries of what a website is supposed to be and discover unique ways to find solutions. I enjoy building and experimenting on interfaces, animations, and web features.
-
-My current plans are to enter the industry as a Frontend Engineer / Software Engineer and eventually become a Software Engineer with Frontend and UI / UX specialization.
-
-
+Frontend Engineer with 3 years of coding experience. Consulted with clients to produce web software. Contributor of Evergreen React UI framework. Built personal React projects to demonstrate expertise in web development. Analytical problem solver who produces maintainable solutions to accelerate success of businesses and clients. 
 
 ## Fundamental Skills
 
