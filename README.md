@@ -7,7 +7,7 @@
 
 # Welcome!
 
-Frontend Engineer with 3 years of coding experience. Consulted with clients to produce web software. Contributor of Evergreen React UI framework. Built personal React projects to demonstrate expertise in web development. Analytical problem solver who produces maintainable solutions to accelerate success of businesses and clients. 
+Software Developer with 3 years of coding experience. Consulted with clients to produce web software. Contributor of Evergreen React UI framework. Built personal React projects to demonstrate expertise in web development. Analytical problem solver who produces maintainable solutions to accelerate success of businesses and clients. 
 
 ## Fundamental Skills
 
