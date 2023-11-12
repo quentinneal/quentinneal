@@ -1,4 +1,3 @@
-
 ![](https://raw.githubusercontent.com/quentinneal/quentinneal/main/quentinneal.png)
 <div align="center">
 
@@ -7,7 +6,7 @@
 
 # Welcome!
 
-Professional Software Engineer (Frontend Specialization) with <1 year of professional experience and 3 years of coding experience. Active Software Engineer for Net Pay Advance (React), building the future of online lending and Infange (React), the ultimate information exchange platform.
+Professional Software Engineer with <1 year of professional experience and 3 years of coding experience. Active Software Engineer for Net Pay Advance (React), building the future of online lending and Infange (React), the ultimate information exchange platform.
 
 Built personal React projects to demonstrate knowledge in web development. Analytical problem solver who produces maintainable solutions to accelerate success of businesses and clients.
 
