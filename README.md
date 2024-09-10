@@ -6,7 +6,7 @@
 
 # Welcome!
 
-Professional Software Engineer specializing in in React with 1 year of professional experience and 3 years of coding expertise. Contributed the enhancement and maintenance of netpayadvance.com (lending platform), infange.com (information exchange platform) and paydini.com (private loan support portal).
+Professional Software Engineer specializing in React. Contributed the enhancement and maintenance of netpayadvance.com (lending platform), infange.com (information exchange platform) and paydini.com (private loan support portal).
 
 Built personal React projects to demonstrate knowledge in web development. Analytical problem solver who produces maintainable solutions to accelerate success of businesses and clients.
 
