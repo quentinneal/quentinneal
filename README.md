@@ -6,9 +6,7 @@
 
 # Welcome!
 
-Professional Software Engineer specializing in React. Contributed the enhancement and maintenance of netpayadvance.com (lending platform), infange.com (information exchange platform) and paydini.com (private loan support portal).
-
-Built personal React projects to demonstrate knowledge in web development. Analytical problem solver who produces maintainable solutions to accelerate success of businesses and clients.
+Professional Full-Stack Software Engineer with a specialization in front-end development. Skilled in React/Next.js and C#/ASP.NET ecosystems.
 
 # Skills
 
