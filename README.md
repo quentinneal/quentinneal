@@ -8,6 +8,10 @@
 
 Professional Full-Stack Software Engineer with a specialization in front-end development. Skilled in React/Next.js and C#/ASP.NET ecosystems.
 
+# Work Github Accounts (private)
+
+<a href="https://github.com/quentinnealnuvative">Nuvative</a>
+
 # Skills
 
 ## Languages
