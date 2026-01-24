@@ -10,4 +10,4 @@ Outside of programming, I like to engage in amateur astronomy and use VSTi (Virt
 
 ---
 
-Check out my projects below, or visit my [LinkedIn](https://www.linkedin.com/in/quentinneal) or [GitHub](https://github.com/quentinneal).
+Check out my projects below, or visit my [Portfolio](https://quentinneal.com) or [LinkedIn](https://www.linkedin.com/in/quentinneal).
