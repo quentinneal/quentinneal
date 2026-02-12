@@ -1,4 +1,4 @@
-![](https://github.com/quentinneal/quentinneal/blob/main/quentinneal.jpg)
+![](https://github.com/quentinneal/quentinneal/blob/main/quentinnealcover.png)
 
 # Hello! 
 
