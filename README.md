@@ -2,7 +2,7 @@
 
 # Hello! 
 
-I'm a **Full Stack Software Engineer** who believes great web experiences shouldn't force a choice between beauty and performance. I specialize in **React**, **Next.js**, and **TypeScript**, building applications that are fast, beautiful, and maintainable.
+I'm a **Frontend Software Engineer** who believes great web experiences shouldn't force a choice between beauty and performance. I specialize in **React**, **Next.js**, and **TypeScript**, building applications that are fast, beautiful, and maintainable.
 
 Before tech, I worked for Hilton in Seattle, and I've found that creating an excellent hospitality experience and an excellent web experience aren't so different and that is the mindset I bring to my work.
 
