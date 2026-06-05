@@ -2,11 +2,11 @@
 
 # Hello! 
 
-I'm a **Frontend Software Engineer** who believes great web experiences shouldn't force a choice between beauty and performance. I specialize in **React**, **Next.js**, and **TypeScript**, building applications that are fast, beautiful, and maintainable.
+I'm a Frontend Software Engineer with a deep specialization in UI craft, design systems, and AI-integrated development. My focus is to build web experiences that are both visually refined and architecturally sound.
 
-Before tech, I worked for Hilton in Seattle, and I've found that creating an excellent hospitality experience and an excellent web experience aren't so different and that is the mindset I bring to my work.
+Before tech, I worked for Hilton in Seattle and I believe a great hospitality experience and a great web experience are not so different from one another and that is the philosophy I bring to my work.
 
-Outside of programming, I like to engage in amateur astronomy and use VSTi (Virtual Studio Technology instruments) to produce sounds in FL Studio (music software).
+Outside of coding, I enjoy amateur astronomy, traveling, sound design, gaming and movies.
 
 ---
 
