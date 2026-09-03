@@ -2,11 +2,13 @@
 
 # Hello! 
 
-I'm a Software Engineer with a deep specialization in frontend, UI craft, design systems, and AI-integrated development. My focus is to build web experiences that are both visually refined and architecturally sound.
+I’m a Software Engineer with 3+ years of experience specializing in frontend and UI engineering with React, TypeScript, and Next.js. I build customer facing applications with an emphasis on maintainable architecture, accessibility, performance, and polished user experiences.
 
-Before tech, I worked for Hilton in Seattle and I believe a great hospitality experience and a great web experience are not so different from one another and that is the philosophy I bring to my work.
+My strongest specialty is UI focused frontend engineering: translating product and design requirements into scalable UI architecture and responsive, production quality interfaces. I bring deep CSS expertise alongside experience building design systems, reusable interface patterns, complex application state, API integrations, testing, accessibility, performance, and production debugging.
 
-Outside of coding, I enjoy amateur astronomy, traveling, sound design, gaming and movies.
+I’m comfortable owning frontend focused features end to end, while contributing across backend systems when needed.
+
+Outside of programming, I like to engage in amateur astronomy, traveling, gaming, movies, and using VSTi (Virtual Studio Technology instruments) to produce sounds in FL Studio.
 
 ---
 
