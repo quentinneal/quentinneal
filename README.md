@@ -15,4 +15,4 @@ Outside of programming, I like to engage in amateur astronomy, traveling, gaming
 Portfolio: [Portfolio](https://quentinneal.com)
 Linkedin: [LinkedIn](https://www.linkedin.com/in/quentinneal)
 
-Most of my professional development activity is on a separate work GitHub account [Work GitHub Link](https://github.com/quentinnealnuvative)). Additional projects and contributions are in private repositories.
+Most of my professional development activity is on a separate work GitHub account [Work GitHub Link](https://github.com/quentinnealnuvative). Additional projects and contributions are in private repositories.
